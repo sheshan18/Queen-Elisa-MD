@@ -8,8 +8,8 @@
  ▒█▒█░   ░█░
  ░▀▄▀░   ▄█▄
  
- 𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙈𝘿 𝘽𝙮 𝘿𝙖𝙧𝙠 𝙈𝙖𝙠𝙚𝙧 
- 𝙋𝙪𝙗𝙡𝙞𝙘 𝘿𝙖𝙩𝙚 - 2022 / 07 / 03 
+ 𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 Ⴆყ MR.TP
+ 𝙋𝙪𝙗𝙡𝙞𝙘 𝘿𝙖𝙩𝙚 - 2022 / 07 / 08
  𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 𝙎𝙘𝙧𝙞𝙥𝙩 𝙁𝙧𝙤 𝙂𝙤𝙟𝙤 𝙎𝙖𝙩𝙤𝙧𝙪
  
  𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤
@@ -44,11 +44,11 @@ global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
+global.alivelogo = `https://telegra.ph/file/40fc96de189f75da7400e.jpg`
 global.alive =`Hello i am alive now
 
 Download song type .yt 
-Thanks fro using...`
+Thanks for using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
 🌀 Thanks Fro using sl zim bot
@@ -60,7 +60,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚍 𝚋𝚢 𝙼𝚁.𝚃𝙿`// 【﻿ｍａｋｅｄ　ｂｙ　ｓｈｅｓｈａｎ】
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
